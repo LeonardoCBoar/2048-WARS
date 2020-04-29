@@ -1,0 +1,5 @@
+0-Server Message
+1-Server -> Client board data
+2-Client -> Server board data
+6-New client connected(broadcast)
+7-Disconnection code
